@@ -5,7 +5,7 @@
     "build": "tsc",
     "test": "jest"
   },
-  "dependencies": {
+  "devDependencies": {
     "@types/jest": "^27.5.2",
     "jose": "^4.14.6",
     "jest": "^27.5.1",
